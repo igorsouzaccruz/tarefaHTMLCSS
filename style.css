@@ -31,11 +31,13 @@ p {
     background-color: white;
     display: inline-block;   
     width: 220px;
-    height: 220px;
+    height: 210px;
     margin: 20px;
+    padding: 5px;
 }
 img{
     width: 100%;
+    
     padding: 0px;
 }
 @media only screen and (min-width: 800px){
